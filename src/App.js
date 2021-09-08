@@ -1,4 +1,3 @@
-import { Container, Nav, NavDropdown } from 'react-bootstrap';
 import './App.css';
 import Footer from './components/Footer';
 import Main from './components/Main';
