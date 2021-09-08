@@ -5,7 +5,7 @@ import { Nav, NavDropdown } from 'react-bootstrap';
 export default function Navigation(){
     return (
         <Navbar className="nav" expand="sm">
-            <Navbar.Brand href="/"><img src="images/logo.png" className="logo"/></Navbar.Brand>
+            <Navbar.Brand href="/"><img src="images/logo.png" alt="logo" className="logo"/></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
